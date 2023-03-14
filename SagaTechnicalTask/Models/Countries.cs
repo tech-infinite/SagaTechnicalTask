@@ -2,7 +2,7 @@
 {
     public class Countries
     {
-        public string countryName { get; set; }
-        public char countryCode { get; set; }
+        public string? Country { get; set; }
+        public string? Code { get; set; }
     }
 }
